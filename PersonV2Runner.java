@@ -1,5 +1,5 @@
 /**
- * Q4: alternate way of comparing using TreeSet() constructor
+ * Q5
  */
 package week2;
 
